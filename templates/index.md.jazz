@@ -1,0 +1,8 @@
+![{org.name}](images/logo.png)
+
+{org.description}
+{foreach repo_group in repositories}
+### {repo_group.key}
+
+{foreach repo in repo_group.value}* [![Build Status](https://github.com/{org.id}/{repo.id}/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/{org.id}/{repo.id}/actions?query=workflow%3ACI) [{repo.name}](https://github.com/{org.id}/{repo.id}) - {repo.description}
+{end}{end}

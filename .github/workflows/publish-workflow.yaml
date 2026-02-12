@@ -1,0 +1,20 @@
+---
+name: Publish
+on: [workflow_dispatch]
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.LITTLEGODZILLALABORATORY_GITHUB_TOKEN }}
+          set-safe-directory: ${{ github.workspace }}
+      - uses: cliffano/command-docker-action@v1.4.0
+        with:
+          command: 'make deps build'
+          image: cliffano/studio:2.16.0
+      - uses: ad-m/github-push-action@v1.0.0
+        with:
+          tags: false
+          github_token: ${{ secrets.LITTLEGODZILLALABORATORY_GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
