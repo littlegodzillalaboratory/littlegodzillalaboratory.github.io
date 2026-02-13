@@ -7,4 +7,4 @@
 littlegodzillalaboratory.github.io
 ----------------------------------
 
-Website for littlegodzillalaboratory project at [https://littlegodzillalaboratory.github.io](https://littlegodzillalaboratory.github.io).
+Website for Little Godzilla Laboratory project at [https://littlegodzillalaboratory.github.io](https://littlegodzillalaboratory.github.io).

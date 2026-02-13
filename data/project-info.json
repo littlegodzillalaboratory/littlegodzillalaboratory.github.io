@@ -7,9 +7,29 @@
 	"repositories": {
 		"Minecraft": [
 			{
+				"id": "ansible-role-fabricmc",
+				"name": "Ansible Role FabricMC",
+				"description": "Ansible role for provisioning Fabric mod loader for Minecraft"
+			},
+			{
 				"id": "ansible-role-minecraft-java",
 				"name": "Ansible Role Minecraft Java",
 				"description": "Ansible role for provisioning Minecraft Java edition"
+			},
+			{
+				"id": "ansible-role-minecraft-waterland",
+				"name": "Ansible Role Minecraft Waterland",
+				"description": "Ansible role for provisioning Minecraft Waterland customisations"
+			},
+			{
+				"id": "minecraft-waterland",
+				"name": "Minecraft Waterland",
+				"description": "Minecraft customisations for the Kingdom of Waterland"
+			},
+			{
+				"id": "mineflayer-chatgpt",
+				"name": "Mineflayer ChatGPT",
+				"description": "Mineflayer plugin for sending messages to OpenAI's ChatGPT"
 			}
 		],
 		"Caesar 3": [
