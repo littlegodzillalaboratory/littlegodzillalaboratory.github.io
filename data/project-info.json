@@ -34,7 +34,7 @@
 		],
 		"Caesar 3": [
 			{
-				"id": "ansible-role-caesar-3",
+				"id": "ansible-role-caesar3",
 				"name": "Ansible Role Caesar 3",
 				"description": "Ansible role for provisioning Caesar III city-building game"
 			}
