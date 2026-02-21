@@ -12,7 +12,7 @@ A collection of generated API clients and supporting utilities
 
 ### Caesar 3
 
-* [![Build Status](https://github.com/littlegodzillalaboratory/ansible-role-caesar-3/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/littlegodzillalaboratory/ansible-role-caesar-3/actions?query=workflow%3ACI) [Ansible Role Caesar 3](https://github.com/littlegodzillalaboratory/ansible-role-caesar-3) - Ansible role for provisioning Caesar III city-building game
+* [![Build Status](https://github.com/littlegodzillalaboratory/ansible-role-caesar3/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/littlegodzillalaboratory/ansible-role-caesar3/actions?query=workflow%3ACI) [Ansible Role Caesar 3](https://github.com/littlegodzillalaboratory/ansible-role-caesar3) - Ansible role for provisioning Caesar III city-building game
 
 ### Utilities
 
