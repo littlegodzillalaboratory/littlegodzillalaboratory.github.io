@@ -22,6 +22,11 @@
 				"description": "Ansible role for provisioning Minecraft Waterland customisations"
 			},
 			{
+				"id": "minecraft-npc",
+				"name": "Minecraft NPC",
+				"description": "Configurable Minecraft NPC bot"
+			},
+			{
 				"id": "minecraft-waterland",
 				"name": "Minecraft Waterland",
 				"description": "Minecraft customisations for the Kingdom of Waterland"
