@@ -44,6 +44,13 @@
 				"description": "Ansible role for provisioning Caesar III city-building game"
 			}
 		],
+		"Pokémon": [
+			{
+				"id": "typhlosion",
+				"name": "Typhlosion",
+				"description": "Random Pokémon stuffs our lab plays with"
+			}
+		],
 		"Utilities": [
 			{
 				"id": "littlegodzillalaboratory.github.io",
