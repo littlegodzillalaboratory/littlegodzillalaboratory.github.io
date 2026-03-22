@@ -15,6 +15,10 @@ A collection of generated API clients and supporting utilities
 
 * [![Build Status](https://github.com/littlegodzillalaboratory/ansible-role-caesar3/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/littlegodzillalaboratory/ansible-role-caesar3/actions?query=workflow%3ACI) [Ansible Role Caesar 3](https://github.com/littlegodzillalaboratory/ansible-role-caesar3) - Ansible role for provisioning Caesar III city-building game
 
+### Pokémon
+
+* [![Build Status](https://github.com/littlegodzillalaboratory/typhlosion/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/littlegodzillalaboratory/typhlosion/actions?query=workflow%3ACI) [Typhlosion](https://github.com/littlegodzillalaboratory/typhlosion) - Random Pokémon stuffs our lab plays with
+
 ### Utilities
 
 * [![Build Status](https://github.com/littlegodzillalaboratory/littlegodzillalaboratory.github.io/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/littlegodzillalaboratory/littlegodzillalaboratory.github.io/actions?query=workflow%3ACI) [littlegodzillalaboratory.github.io](https://github.com/littlegodzillalaboratory/littlegodzillalaboratory.github.io) - Website for Little Godzilla Laboratory project
