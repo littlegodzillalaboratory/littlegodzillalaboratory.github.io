@@ -1,6 +1,6 @@
 ![Little Godzilla Laboratory](images/logo.png)
 
-A collection of generated API clients and supporting utilities
+Mini playground for building game-related tools and experiments
 
 ### Minecraft
 
