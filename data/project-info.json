@@ -2,7 +2,7 @@
 	"org": {
 		"id": "littlegodzillalaboratory",
 		"name": "Little Godzilla Laboratory",
-		"description": "A collection of generated API clients and supporting utilities"
+		"description": "Mini playground for building game-related tools and experiments"
 	},
 	"repositories": {
 		"Minecraft": [
