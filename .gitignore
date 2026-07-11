@@ -1,5 +1,6 @@
 # Start of Studio gitignore
 core
+stage/
 # End of Studio gitignore
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,node
