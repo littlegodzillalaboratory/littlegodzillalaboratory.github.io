@@ -1,0 +1,15 @@
+---
+package_name: littlegodzillalaboratory.github.io
+author: Little Godzilla Laboratory
+generator:
+  component: project-site
+  inputs:
+    project_id: littlegodzillalaboratory.github.io
+    project_name: littlegodzillalaboratory.github.io
+    project_desc: Website for Little Godzilla Laboratory project
+    author_name: Little Godzilla Laboratory
+    author_email: blah+lgl@cliffano.com
+    author_url: https://github.com/littlegodzillalaboratory
+    github_id: littlegodzillalaboratory
+    github_repo: littlegodzillalaboratory.github.io
+    github_token_prefix: LITTLEGODZILLALABORATORY
