@@ -11,4 +11,4 @@ jobs:
       - uses: cliffano/command-docker-action@v1.4.0
         with:
           command: 'make deps ci'
-          image: cliffano/studio:2.16.0
+          image: cliffano/studio:3.2.0
