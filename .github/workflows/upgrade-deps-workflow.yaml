@@ -16,7 +16,7 @@ jobs:
       - uses: cliffano/command-docker-action@v1.4.0
         with:
           image: cliffano/studio:3.2.0
-          command: 'make ci'
+          command: 'make deps ci'
       - uses: cliffano/save-changes-action@v1.0.0
         with:
           message: "Upgrade dependencies to latest"
