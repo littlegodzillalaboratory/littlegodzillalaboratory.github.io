@@ -54,17 +54,17 @@
 		"Tic-Tac-Toe": [
 			{
 				"id": "toetactic",
-				"name": "Toetactic"
+				"name": "Toetactic",
 				"description": "Simple Terminal Tic Tac Toe game"
 			},
 			{
 				"id": "tictactoe-policy",
-				"name": "TicTacToe Policy"
+				"name": "TicTacToe Policy",
 				"description": "Small PyTorch policy for configurable-size Tic-Tac-Toe boards"
 			},
 			{
 				"id": "tictactoe-models",
-				"name": "TicTacToe Models"
+				"name": "TicTacToe Models",
 				"description": "Trained policy models and evaluation metadata for configurable-size Tic-Tac-Toe"
 			}
 		],
