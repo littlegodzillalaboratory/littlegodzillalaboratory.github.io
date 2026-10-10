@@ -19,6 +19,12 @@ Mini playground for building game-related tools and experiments
 
 * [![Build Status](https://github.com/littlegodzillalaboratory/typhlosion/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/littlegodzillalaboratory/typhlosion/actions?query=workflow%3ACI) [Typhlosion](https://github.com/littlegodzillalaboratory/typhlosion) - Random Pokémon stuffs our lab plays with
 
+### Tic-Tac-Toe
+
+* [![Build Status](https://github.com/littlegodzillalaboratory/toetactic/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/littlegodzillalaboratory/toetactic/actions?query=workflow%3ACI) [Toetactic](https://github.com/littlegodzillalaboratory/toetactic) - Simple Terminal Tic Tac Toe game
+* [![Build Status](https://github.com/littlegodzillalaboratory/tictactoe-policy/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/littlegodzillalaboratory/tictactoe-policy/actions?query=workflow%3ACI) [TicTacToe Policy](https://github.com/littlegodzillalaboratory/tictactoe-policy) - Small PyTorch policy for configurable-size Tic-Tac-Toe boards
+* [![Build Status](https://github.com/littlegodzillalaboratory/tictactoe-models/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/littlegodzillalaboratory/tictactoe-models/actions?query=workflow%3ACI) [TicTacToe Models](https://github.com/littlegodzillalaboratory/tictactoe-models) - Trained policy models and evaluation metadata for configurable-size Tic-Tac-Toe
+
 ### Utilities
 
 * [![Build Status](https://github.com/littlegodzillalaboratory/littlegodzillalaboratory.github.io/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/littlegodzillalaboratory/littlegodzillalaboratory.github.io/actions?query=workflow%3ACI) [littlegodzillalaboratory.github.io](https://github.com/littlegodzillalaboratory/littlegodzillalaboratory.github.io) - Website for Little Godzilla Laboratory project
